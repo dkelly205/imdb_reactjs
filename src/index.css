@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.movie-section {margin: auto;
+                width: 60%;
+                text-align:center;
+                }
+
+.movieList { color: #1E90FF;
+              }
+
+.movie{position: relative;}
+
+h2 { color: #333;}
+
+a{color: #1E90FF;
+  text-decoration: none;
+position:absolute;
+right: 50px;
+top:2px;
+
+
+}
